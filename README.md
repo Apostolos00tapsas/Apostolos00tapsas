@@ -1,5 +1,6 @@
 ## My Name's Apostolos Tapsas 
-![135621594_970961640395175_4648354708717002909_n - Αντιγραφή](https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png" />][linkedin]
+
 ## I'm a Software Developer!!
 
 -  I'm working at: [VectorCamp][vectorcamp]!
