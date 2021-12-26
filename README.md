@@ -2,14 +2,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="220px" src="https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png" />][linkedin]
 My background is actually on software engineering and data analysis. I recently completed my postgraduate studies in research methodology, in biomedicine, biostatistics and clinical bioinformatics at university of Thessaly.
 
-Currently, I am planning to undertake a PhD program in order to expand my knowledge in the field of Data Science and subsequently pursue a research career.
-
-<br />
-
-## I'm a Software Developer!!
-
--  I'm working at: [VectorCamp][vectorcamp]!
--  I’m currently learning SIMD Vectorization and Machine Learning.
+Currently, I am working at [VectorCamp][vectorcamp]! as ML/SIMD Software Engineer, in the future i planning to undertake a PhD program in order to expand my knowledge in the field of Data Science and subsequently pursue a research career.
 
 <br />
 
@@ -31,8 +24,6 @@ Currently, I am planning to undertake a PhD program in order to expand my knowle
 
 <br />
 <br />
-<br />
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
