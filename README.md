@@ -1,5 +1,5 @@
 ## My Name's Apostolos Tapsas 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="220px" src="https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png" />][linkedin]
 
 ## I'm a Software Developer!!
 
