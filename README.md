@@ -26,6 +26,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
   <img align="left" alt="Apostolos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Apostolos00tapsas&show_icons=true&theme=dracula" />
 
 </details>
