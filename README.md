@@ -22,7 +22,7 @@ Currently, I am working at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="24px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 
 <br />
