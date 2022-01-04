@@ -16,7 +16,7 @@ Currently, I am working at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
 [<img align="left" alt="CMake" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />][cmake]
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />][bash]
-[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />][bash]
+[<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />][vim]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][bash]
 
 <br />
@@ -49,3 +49,4 @@ Currently, I am working at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer
 [msql]: https://www.mysql.com/
 [bash]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [cmake]: https://cmake.org/
+[vim]: https://www.vim.org/
