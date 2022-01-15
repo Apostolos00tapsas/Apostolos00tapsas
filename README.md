@@ -10,10 +10,12 @@ Currently, I am working at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />][Rpp]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />][msql]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="matlab" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />][matlab]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
+[<img align="left" alt="SPSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spss/spss-original.svg" />][SPSS]
 [<img align="left" alt="CMake" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />][cmake]
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />][bash]
 [<img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />][vim]
@@ -52,3 +54,5 @@ Currently, I am working at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer
 [bash]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [cmake]: https://cmake.org/
 [vim]: https://www.vim.org/
+[SPSS]: https://www.ibm.com/products/spss-statistics
+[matlab]: https://www.mathworks.com/products/matlab.html
