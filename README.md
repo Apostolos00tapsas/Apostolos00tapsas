@@ -58,3 +58,4 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 [vim]: https://www.vim.org/
 [SPSS]: https://www.ibm.com/products/spss-statistics
 [matlab]: https://www.mathworks.com/products/matlab.html
+[rust]: https://www.rust-lang.org/
