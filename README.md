@@ -7,6 +7,9 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 <br />
 
 ### I Automate for:
+<img src="https://commons.wikimedia.org/.../Audi_logo.svg" alt="Audi logo" width="128"/>
+
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
 
 <br />
 
