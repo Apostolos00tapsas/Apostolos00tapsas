@@ -8,7 +8,7 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 
 ### I Automate for:
 [<img align="left" alt="VW" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][VW]
-[<img align="left" alt="Audi" width="26px" src="https://ru.wikipedia.org/wiki/Audi#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Audi_logo.svg" />][AUDI]
+[<img align="left" alt="Audi" width="26px" src="https://commons.wikimedia.org/wiki/File:Audi-Logo_2016.svg#/media/File:Audi_logo_detail.svg" />][AUDI]
 
 
 <br />
