@@ -10,6 +10,8 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 [<img align="left" alt="VW" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][VW]
 [<img align="left" alt="Audi" width="26px" src="https://de.m.wikipedia.org/wiki/Audi#/media/Datei%3AAUDI_Logo_(2024).svg" />][AUDI]
 
+
+<br />
 <br />
 
 
