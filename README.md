@@ -3,7 +3,6 @@
 My background is actually on software engineering and data analysis. I recently completed my postgraduate studies in research methodology, in biomedicine, biostatistics and clinical bioinformatics at university of Thessaly.
 
 Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto indusrty was at [Capgemini][Capgemin]. In coding I was at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer, in the future i planning to undertake a PhD program in order to expand my knowledge in the field of Data Science and subsequently pursue a research career.
-
 <br />
 
 ### I Automate for:
