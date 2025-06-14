@@ -2,7 +2,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="220px" src="https://user-images.githubusercontent.com/39501690/147421528-ee295a49-cbc4-49ce-86db-5ede2b08eadf.png" />][linkedin]
 My background is actually on software engineering and data analysis. I recently completed my postgraduate studies in research methodology, in biomedicine, biostatistics and clinical bioinformatics at university of Thessaly.
 
-Currently, I am working at [Capgemini][Capgemin]. My previous expirience in coding was at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer, in the future i planning to undertake a PhD program in order to expand my knowledge in the field of Data Science and subsequently pursue a research career.
+Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto indusrty was at [Capgemini][Capgemin]. In coding I was at [VectorCamp][vectorcamp] as ML/SIMD Software Engineer, in the future i planning to undertake a PhD program in order to expand my knowledge in the field of Data Science and subsequently pursue a research career.
 
 <br />
 
@@ -53,6 +53,7 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 
 </details>
 
+[Luxoft]:https://www.luxoft.com/
 [Capgemin]: https://capgemini-engineering.com/de/en/ 
 [vectorcamp]: https://github.com/VectorCamp
 [twitter]: https://twitter.com/paul_tapsas
