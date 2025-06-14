@@ -7,7 +7,8 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 <br />
 
 ### I Automate for:
-[<img align="left" alt="VW" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][python]
+[<img align="left" alt="VW" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][VW]
+[<img align="left" alt="Audi" width="26px" src="https://de.m.wikipedia.org/wiki/Audi#/media/Datei%3AAUDI_Logo_(2024).svg" />][AUDI]
 
 <br />
 
@@ -69,3 +70,5 @@ Currently, I am working at [Capgemini][Capgemin]. My previous expirience in codi
 [SPSS]: https://www.ibm.com/products/spss-statistics
 [matlab]: https://www.mathworks.com/products/matlab.html
 [rust]: https://www.rust-lang.org/
+[AUDI]: https://www.audi.com/en/
+[VW]:https://www.volkswagen.de/de.html
