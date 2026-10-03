@@ -6,8 +6,8 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 <br />
 
 ### I Automate for:
-[<img align="left" alt="VW" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][VW]
-[<img align="left" alt="Audi" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/92/20160602141732%21Audi-Logo_2016.svg" />][AUDI]
+[<img align="left" alt="VW" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" />][VW]
+[<img align="left" alt="Audi" width="49px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/92/20160602141732%21Audi-Logo_2016.svg" />][AUDI]
 
 <br />
 
@@ -19,7 +19,7 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 
 ### Languages:
 
-[<img align="left" alt="CUDA" width="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" />][CUDA]
+[<img align="left" alt="CUDA" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" />][CUDA]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />][rust]
