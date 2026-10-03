@@ -19,7 +19,7 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 
 ### Languages:
 
-[<img align="left" alt="CUDA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" />][CUDA]
+[<img align="left" alt="CUDA" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/NVIDIA_logo.svg" />][CUDA]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />][rust]
