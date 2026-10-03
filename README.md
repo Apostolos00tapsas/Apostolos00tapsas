@@ -80,3 +80,4 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 [AUDI]: https://www.audi.com/en/
 [VW]:https://www.volkswagen.de/de.html
 [ARM]:https://www.arm.com/
+[CUDA]:https://developer.nvidia.com/cuda/toolkit
