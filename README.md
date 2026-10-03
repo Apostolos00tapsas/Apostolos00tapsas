@@ -13,7 +13,7 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 
 
 ### I Opptimize for:
-[<img align="left" alt="Audi" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/60/20180706162738%21ARM_logo.svg" />][ARM]
+[<img align="left" alt="ARM" width="59px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/60/20180706162738%21ARM_logo.svg" />][ARM]
 
 <br />
 
