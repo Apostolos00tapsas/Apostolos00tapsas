@@ -23,6 +23,11 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 [<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />][rust]
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />][Rpp]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />][msql]
+
+<br />
+<br />
+
+### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
 [<img align="left" alt="matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" />][matlab]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git]
@@ -35,7 +40,6 @@ Currently, I am working  at [Luxoft][Luxoft]. My previous expirience in Auto ind
 
 <br />
 <br />
-
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
